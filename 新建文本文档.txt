@@ -1,0 +1,5 @@
+Çå»ª: https://pypi.tuna.tsinghua.edu.cn/simple
+
+¶¹°ê: http://pypi.douban.com/simple/
+
+°¢Àï: http://mirrors.aliyun.com/pypi/simple/
